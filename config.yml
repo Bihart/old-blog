@@ -1,4 +1,86 @@
-baseURL: http://example.org/
+baseURL: https://Bihart.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Generic Public Divagetion 
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    profileMode:
+      enabled: true
+      title: "Sanket write things u.u"
+      subtitle: "cat ./sanket.thinks >  The_W3"
+      buttons:
+        - name: Blog
+          url: posts
+        - name: Tags
+          url: tags
+
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
+
+
+  es:
+    languageName: "Español"
+    weight: 1
+    profileMode:
+      enabled: true
+      title: "Sanket escibe cosa u.u"
+      subtitle: "cat ./sanket.piensa > W3"
+      buttons:
+        - name: Blog
+          url: posts
+        - name: Tags
+          url: tags
+
+    menu:
+      main:
+        - name: Archivos
+          url: archives
+          weight: 5
+        - name: Buscar
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Categorias
+          url: categories/
+          weight: 10
+params:
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sanket-ram%C3%ADrez-570787207"
+    - name: "twitter"
+      url: "https://twitter.com/b1h4rt"
+    - name: "github"
+      url: "https://github.com/bihart"
+    - name: "gitlab"
+      url: "https://gitlab.com/Bihart"
+    - name: "telegram"
+      url: "https://t.me/Bih4rt"
+    - name: "email"
+      url: "mailto:sanket.bihari@gmail.com"

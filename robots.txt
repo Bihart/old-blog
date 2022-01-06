@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Bihart.github.io/sitemap.xml

@@ -1,0 +1,2 @@
+* A Blog
+  Just a generic blog by generic person, using [[https://gohugo.io/][Hugo]] and [[https://github.com/][GitHub]].

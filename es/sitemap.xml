@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Bihart.github.io/es/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Bihart.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Bihart.github.io/es/archives/"
+                />
+  </url><url>
+    <loc>https://Bihart.github.io/es/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Bihart.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Bihart.github.io/es/search/"
+                />
+  </url><url>
     <loc>https://Bihart.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
